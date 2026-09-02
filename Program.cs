@@ -58,7 +58,8 @@ Limites:
 0 < R <= 10;
 
 Saída
-Um valor real com duas casas decimais indicando o tamanho total da circunferência do círculo da pergunta de Gollum. */
+Um valor real com duas casas decimais indicando o tamanho total da circunferência do círculo da pergunta de Gollum.
+formula circunferencia - c=2 pi r */
 
 
 
