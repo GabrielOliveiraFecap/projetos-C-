@@ -13,3 +13,18 @@ c:\projetos C#\obj\Debug\net10.0\projetos C#.pdb
 C:\projetos C#\obj\Debug\net10.0\projetos C#.genruntimeconfig.cache
 C:\projetos C#\obj\Debug\net10.0\ref\projetos C#.dll
 c:\projetos C#\obj\Debug\net10.0\projetos C#.sourcelink.json
+C:\Users\23011298\Documents\projetosC\projetos-C-\bin\Debug\net10.0\projetos C#.exe
+C:\Users\23011298\Documents\projetosC\projetos-C-\bin\Debug\net10.0\projetos C#.deps.json
+C:\Users\23011298\Documents\projetosC\projetos-C-\bin\Debug\net10.0\projetos C#.runtimeconfig.json
+C:\Users\23011298\Documents\projetosC\projetos-C-\bin\Debug\net10.0\projetos C#.dll
+C:\Users\23011298\Documents\projetosC\projetos-C-\bin\Debug\net10.0\projetos C#.pdb
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.AssemblyInfoInputs.cache
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.AssemblyInfo.cs
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.csproj.CoreCompileInputs.cache
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.sourcelink.json
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.dll
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\refint\projetos C#.dll
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.pdb
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\projetos C#.genruntimeconfig.cache
+C:\Users\23011298\Documents\projetosC\projetos-C-\obj\Debug\net10.0\ref\projetos C#.dll

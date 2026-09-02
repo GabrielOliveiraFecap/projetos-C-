@@ -8,19 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\w10\\.nuget\\packages\\": {}
+    "C:\\Users\\23011298\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos C#\\projetos C#.csproj",
+      "projectUniqueName": "C:\\Users\\23011298\\Documents\\projetosC\\projetos-C-\\projetos C#.csproj",
       "projectName": "projetos C#",
-      "projectPath": "C:\\projetos C#\\projetos C#.csproj",
-      "packagesPath": "C:\\Users\\w10\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos C#\\obj\\",
+      "projectPath": "C:\\Users\\23011298\\Documents\\projetosC\\projetos-C-\\projetos C#.csproj",
+      "packagesPath": "C:\\Users\\23011298\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\23011298\\Documents\\projetosC\\projetos-C-\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\w10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\23011298\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
@@ -69,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
