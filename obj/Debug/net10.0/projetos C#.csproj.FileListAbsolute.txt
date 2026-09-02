@@ -12,3 +12,4 @@ c:\projetos C#\obj\Debug\net10.0\refint\projetos C#.dll
 c:\projetos C#\obj\Debug\net10.0\projetos C#.pdb
 C:\projetos C#\obj\Debug\net10.0\projetos C#.genruntimeconfig.cache
 C:\projetos C#\obj\Debug\net10.0\ref\projetos C#.dll
+c:\projetos C#\obj\Debug\net10.0\projetos C#.sourcelink.json

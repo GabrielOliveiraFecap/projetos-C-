@@ -62,7 +62,19 @@ Um valor real com duas casas decimais indicando o tamanho total da circunferênc
 formula circunferencia - c=2 pi r */
 
 
+double r, c;
 
+Console.WriteLine("Digite o valor do raio: ");
+r = double.Parse(Console.ReadLine());
+
+while(r<=0 || r>10)
+{
+    Console.WriteLine("Digite um número entre 0 e 10: ");
+    r = double.Parse(Console.ReadLine());
+}
+c = r*3.14*2;
+c= Math.Round(c, 2);
+Console.WriteLine("A circunferencia tem tamanho: " + c);
 
     
 
